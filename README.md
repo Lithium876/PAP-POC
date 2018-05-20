@@ -4,4 +4,4 @@ PAP is considered a weak authentication scheme (weak schemes are simple and have
 
 # Proof of Concept
 
-![alt text] (https://image-store.slidesharecdn.com/c380d646-7997-4074-816d-ae4672079b54-original.png)
+![alt text](https://image-store.slidesharecdn.com/c380d646-7997-4074-816d-ae4672079b54-original.png)
