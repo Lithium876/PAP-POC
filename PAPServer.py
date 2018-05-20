@@ -1,9 +1,12 @@
 import socket, hashlib
  
-passwordHash= "31435008693ce6976f45dedc5532e2c1"
+passwordHash= #create a MD5 hashed version of any password you wisH. Use the hashit function for this#
 
-def hashit(text):
-	result = hashlib.md5(text.encode())
+def hashit(password):
+	'''
+	Returns a hashed version of a password
+	'''
+	result = hashlib.md5(password.encode())
 	return result.hexdigest()
 
 def connect(ip,port):
